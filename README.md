@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tomaž Šimunić
 - 👀 I’m interested in learning how to code and where to use the code and programs that i make
 - 🌱 I’m currently learning HTML, CSS and C++
-- You can reach me on my mail: tomaz.simunic1@gmail.com
+- You can reach me on my gmail: tomaz.simunic1@gmail.com
 
 I have finished the school Srednja elektro-računalniška šola Maribor.
 During this, I learned programming and system knowledge, some of which I also researched in my spare time.
