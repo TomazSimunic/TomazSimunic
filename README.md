@@ -1,30 +1,50 @@
 # ABOUT ME
-- 👋 Hi, I’m Tomaž Šimunić
-- 👀 I’m interested in learning how to code and where to use the code and programs that i make
-- 🌱 I’m currently learning HTML, CSS and C++
-- You can reach me on my gmail: tomaz.simunic1@gmail.com
+Hi. Welcome to my github profile.
+I'm Tomaž Šimunič, a bacheleor's graduate in comp. sci. and IT systems at the Faculty of Electrical Engineering and Computer Science, Maribor.
 
-I have finished the school Srednja elektro-računalniška šola Maribor.
-During this, I learned programming and system knowledge, some of which I also researched in my spare time.
+My main focus is learning programming, be it for the use of low level systems, higher level applications and game developement, while also trying to understand how the lower level systems and electronics work.
 
-### The languages I learned or used to this day:
+You can reach me at tomaz.simunic1@gmail.com
+
+## Languages I have learned:
+Here's the languages I've used to various degrees, separated by my knowledge and proficiency with them.
+### Capable with:
 - C++
 - C# in Unity
-- HTML, CSS
-- PHP
-- SQL
-- PHPMyAdmin
-- Java
 - Python
+- SQL
 
-### My knowledge of these languages:
+### Know the basics:
+- PHP
+- Java
+- Rust
+- Kotlin
+- JS
 
-- C++ is the language, we used the most in school. I also competed in "17. tekmovanja ACM v znanju računalništva" championship, where I competed, using C++ and achieved 24th place out of 89 contestants.
+# Projects:
+Some of the current and already finished projects of mine:
 
-- I finished my final school project using Unity and C#. This project is in my profile under the name Platformer.
+## Weather Prediction
+- **Description:** A test of python and its libraries to train and try to predict future weather
+- **Technologies used:** Python with numpy, polars, matplotlib, etc.
+- [Project](https://github.com/TomazSimunic/WeatherPredict)
 
-- Currently I am creating a website using HMTL and CSS, which i was also taught in school.
+## Computer Vision
+- **Description:** A collection of assignments from subject ORV (Osnove računalniškega vida), focused on computer vision, filters and working with images
+- **Technologies used:** Python
+- **[Project](https://github.com/TomazSimunic/ORV-Naloge)**
 
-- We also had a year of PHP and Java in school and 2 years of SQL, with some PHPMyAdmin.
+## ScoreJam
+- **Description:** Participation in the ScoreJam game jam, working with another programmer and sound designer. My work was coding, management and art
+- **Technologies used:** GDScript, Godot, Jira and Krita
+- **[Project](https://github.com/TomazSi/ScoreJam)**
 
-- I made some small programms using Python, when learning coding.
+## Rust_OS
+- **Description:** Very basic makings of a simple OS .bin file, done through following a guide.
+- **Technologies used:** Rust
+- **[Project](https://github.com/TomazSimunic/demo_OS)**
+
+## Rust IRC
+- **Description:** The basics of an IRC client, used for studying the language. GUI TBD through Iced
+- **Technologies used:** Rust
+- **[Project](https://github.com/TomazSimunic/SimpleIRCtest)**
